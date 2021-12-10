@@ -10,7 +10,7 @@
 <body>
 	Hello
 	<div>${message}</div>
-	<a href="/registerUser">Register User</a>
+	<a href="/register">Register User</a>
 </body>
 </body>
 </html>
